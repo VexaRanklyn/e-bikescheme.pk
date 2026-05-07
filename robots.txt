@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vexaranklyn.github.io/e-bikescheme.pk/sitemap.xml
+Sitemap: https://e-bikescheme.pk/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
